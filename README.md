@@ -16,13 +16,23 @@
   [![Laravel][LaravelBadge]][LaravelHome]
   [![CodeIgniter][CodeIgniterBadge]][CodeIgniterHome]
   
+  
 
 </div>
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/161570039?v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">YUI KASUMI</h2>
- <p align="center">Freelance Programming, Odoo Implementer, Odoo Custom Module Maker</p>
+ <p align="center">
+  <img width="100px" src="https://avatars.githubusercontent.com/u/161570039?v=4" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; filter: brightness(1.2);">
 </p>
+
+ <h2 align="center">YUI KASUMI</h2>
+
+ <p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/20px-Flag_of_Indonesia.svg.png" alt="Bendera Indonesia"> Saya seorang Freelance Odoo implementor, pembuat module custom odoo. Appsheet Implementor, pembuat aplikasi appsheet, dan ahli dalam appsheet integrasi
+</p>
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" alt="Bendera Amerika"> I am a freelance Odoo implementor, creator of custom Odoo modules. Appsheet Implementor, appsheet app creator, and expert in appsheet integration
+</p>
+
   <p align="center">
     <a href="https://github.com/FadelMochammad/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
@@ -43,7 +53,7 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/FadelMochammad/github-readme-stats/badge" />
     </a>
   </p>
-</dp>
+</p>
 <div align="center">
   
 ---
