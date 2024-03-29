@@ -34,23 +34,23 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/FadelMochammad/github-readme-stats/actions">
+    <a href="https://github.com/YuiKasumii/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/FadelMochammad/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/FadelMochammad/github-readme-stats" />
+    <a href="https://github.com/YuiKasumii/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/YuiKasumii/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/FadelMochammad/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/FadelMochammad/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/YuiKasumii/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/YuiKasumii/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/FadelMochammad/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/FadelMochammad/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/YuiKasumii/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/YuiKasumii/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/FadelMochammad/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/FadelMochammad/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/YuiKasumii/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/YuiKasumii/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/FadelMochammad/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/FadelMochammad/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/YuiKasumii/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/YuiKasumii/github-readme-stats/badge" />
     </a>
   </p>
 </p>
@@ -58,14 +58,14 @@
   
 ---
 
-![FadelMochammad](https://count.getloli.com/get/@FadelMochammad?theme=rule34)
+![YuiKasumii](https://count.getloli.com/get/@YuiKasumii?theme=rule34)
 
 ---
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=FadelMochammad&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=YuiKasumii&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadelMochammad&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuiKasumii&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
