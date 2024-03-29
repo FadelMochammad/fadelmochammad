@@ -58,7 +58,7 @@
   
 ---
 
-![YuiKasumii](https://count.getloli.com/get/@YuiKasumii?theme=rule34)
+![YuiKasumii](https://count.getloli.com/get/@FadelMochammad?theme=rule34)
 
 ---
 
