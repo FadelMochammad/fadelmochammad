@@ -61,7 +61,7 @@
 ![YuiKasumii](https://count.getloli.com/get/@FadelMochammad?theme=rule34)
 
 ---
-[![YuiKasumii's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YuiKasumi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=YuiKasumii&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
