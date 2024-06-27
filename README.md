@@ -61,7 +61,7 @@
 ![YuiKasumii](https://count.getloli.com/get/@FadelMochammad?theme=rule34)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuiKasumii&theme=dracula)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=YuiKasumii&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
